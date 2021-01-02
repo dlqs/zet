@@ -20,6 +20,7 @@ For more information, see [neuron documentation][neuron] as well as the [GitHub 
 
 Assuming you have changed the `editUrl` configuration in `neuron.dhall` (see the above section), you can simply click the "edit" icon on the published site to edit any note (see [Editing files in your repository](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) and [Creating new files](https://help.github.com/en/github/managing-files-in-a-repository/creating-new-files)). On every change, your site should eventually rebuild.
 
+<<<<<<< HEAD
 To understand how linking works, read [the neuron guide on Linking][linking].
 
 For other ways to edit your notes (editors, web interface), see the [neuron guide][create]. In particular, [Cerveau](https://www.cerveau.app/) is the easiest way to edit your notes on the go.
@@ -30,3 +31,8 @@ Got questions? Checkout the [[faq]]. To find who else is using this template *pu
 [examples]: https://neuron.zettel.page/examples.html
 [linking]: https://neuron.zettel.page/linking.html
 [create]: https://neuron.zettel.page/create.html
+=======
+To understand how linking works, read [the neuron guide on Linking](https://neuron.zettel.page/2011504.html).
+
+For other ways to edit your notes (editors, web interface), see the [neuron guide](https://neuron.zettel.page/2011406.html).
+>>>>>>> 31a9a2a (Initial commit)
